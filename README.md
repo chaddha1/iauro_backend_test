@@ -1,7 +1,6 @@
 # iauro_backend_test
 
 > Build the following system using Node.js framework and MongoDB or MySQL database:
-
 > Create APIs for following operations in NodeJS. You can use any framework in NodeJS hapi, express, etc.
 
 1.     Create an Admin account, User account
