@@ -16,6 +16,8 @@
 
 6.     Admin can decide whether products can be displayed on a web page or not and also can do delete/update operations on products.
 
->    Databases:
->    i. User data
->    ii. Product data
+#### Databases:
+
+1. User data
+
+2. Product data
