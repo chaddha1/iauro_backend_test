@@ -20,3 +20,15 @@
 1. User data
 
 2. Product data
+
+## Installation
+
+> ### Prerequisites
+> - Node.js
+> - Nodemon
+> - mongoDB
+
+- Clone the git repository on yo local machine.
+- cd /iauro_backend_test
+- npm install or npm i
+- nodemon iauro_backend_test
